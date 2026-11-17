@@ -65,6 +65,6 @@ SQL/
 
 ## 사용 도구
 
-Python(pandas, numpy, scipy, scikit-learn, matplotlib), DuckDB(SQL), Jupyter Notebook, Google Colab, Git/GitHub
+Python(pandas, numpy, scipy, scikit-learn, matplotlib), DuckDB(SQL), Jupyter Notebook, Google Colab, GitHub
 
 분석 방향 설정, 코드 작성과 오류 수정에 Claude를 활용했고, 결과는 Python과 SQL을 서로 대조해 검증했습니다.
